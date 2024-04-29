@@ -1,3 +1,4 @@
 [submodule "storagevet"]
 	path = storagevet
 	url = https://github.com/gautha7/StorageVET
+	branch = master
